@@ -1,2 +1,2 @@
-# k8s组件部署
-1.coredns
+# kubernetes 1.15.0 集群部署
+1.二进制安装高可用kubernetes 
