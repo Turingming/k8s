@@ -34,7 +34,6 @@ etcdctl \
 ```
 
 ```
- mkdir -p  /run/flannel/docker
 
 cat flanneld.service 
 [Unit]

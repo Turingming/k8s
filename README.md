@@ -3,15 +3,17 @@
 
 2.addons
 
-- coredns       #部署dns
+- coredns       
 
-- storagec
+- storageclass
 
-- ```
-  storageclass.yaml   #创建glusterfs驱动，通过storageclass动态分配空间
-  heketi-secret.yaml  #创建glusterfs认证
-  pvc.yaml            #测试
-  ```
+- ingress
+
+- helm
+
+- 
+
+  
 
   
 
