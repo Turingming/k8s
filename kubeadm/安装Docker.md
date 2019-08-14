@@ -2,6 +2,7 @@
 
 ```
 配置依赖及仓库
+
 yum-config-manager \
   --add-repo \
   https://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
