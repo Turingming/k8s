@@ -1,8 +1,9 @@
 ## 配置kubectl
 
 ```
-kubectl 与 API server证书
+kubectl 与 API server通信
 
+生成kubectl证书文件
 cat > admin-csr.json <<EOF
 {
   "CN": "admin",
